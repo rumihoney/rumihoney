@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Roumaissaa — **Rumi** for short, a linguistics graduate with a growing focus on **NLP, data engineering, and language technology.**
+I'm Roumaissaa — **Rumi** for short, a linguistics graduate with a growing focus on **computational linguistics, NLP, language technology, and software development.**
 I'm currently developing my skills in software engineering, data analysis, and NLP to build language technologies that support and promote underrepresented languages.
 
 I'm fascinated by how languages work! From how we produce and understand them to how machines can process, analyze, and translate them.
