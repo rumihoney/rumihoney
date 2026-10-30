@@ -9,5 +9,5 @@ Here you'll find projects involving **Python, data analysis, NLP, multilingual d
 Outside of tech, I practice Muay Thai and enjoy learning languages.
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />]([https://medium.com/@lassalroumaissaa](https://medium.com/@lassalroumaissaa))
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@lassalroumaissaa)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/roumaissaalassal)
